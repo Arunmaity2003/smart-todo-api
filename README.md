@@ -160,3 +160,7 @@ Secure backend architecture
 Arun Maity
 CSE Student | MERN Stack Developer
 📌 Backend Project – Smart ToDo API
+
+If you want, I can also:
+
+Tailor this README for college submission
